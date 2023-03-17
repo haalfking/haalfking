@@ -1,3 +1,6 @@
+<div align = "center">
+  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+</div>
 # Olá! Eu sou Daniel Batista de Carvalho  👋
 *estudante de desenvolvimento Front-end*
 <div style="display: inline_block"><br>
